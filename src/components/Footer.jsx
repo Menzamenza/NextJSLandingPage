@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <footer className="mt-24 m-8">
             <div className="flex  flex-col md:flex-row  items-center justify-between bg-[#8D448B] rounded py-[30px] px-[70px]">
-                <div className=" text-white text-[20px]">
+                <div className=" text-white text-[30px] font-bold leading-snug">
                     <p>Hire the world's best developers <br /> and designer around!</p>
                 </div>
                 <div>
@@ -24,7 +24,7 @@ const Footer = () => {
 
                 </div>
             </div>
-            <div className="flex flex-col md:flex-row items-center justify-between pt-3">
+            <div className="flex flex-col md:flex-row items-center justify-between my-12">
                 <div>
                     <img src="/img/logo.svg" alt="" />
                 </div>

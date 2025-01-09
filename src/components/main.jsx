@@ -14,9 +14,9 @@ const Main = () => {
                     <div>
 
                     </div>
-                    <div className="flex flex-wrap gap-3 ">
-                        <input type="text" className=" px-5 py-3 rounded" placeholder="subscribe newsletter" />
-                        <button className="bg-[#793677] font-semibold  px-5 py-3 rounded text-[#F6F8FB] text-700 ">
+                    <div className="flex flex-wrap gap-3 h-16">
+                        <input type="text" className="px-12 py-3 rounded" placeholder="subscribe newsletter" />
+                        <button className="bg-[#793677] font-bold  px-12 py-3 rounded text-[#F6F8FB] text-700 text-lg ">
                             Subscribe
                         </button>
                     </div>
